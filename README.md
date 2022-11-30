@@ -1,6 +1,4 @@
 # Tutorial Vietnam 
-Document name | URL | Note
---- | --- | --- |
 
 Document name | URL | Note
 --- | --- | --- |
